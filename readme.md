@@ -1,3 +1,8 @@
+Potência Tech powered by iFood | Ciência de Dados | Dio
+Dominando o Python para Ciencia de Dados
+Lab Project
+Criando um Sistema Bancário com Python
+
 objetivo geral:
 Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
@@ -17,3 +22,5 @@ Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 
 link do desafio concluido:
 https://github.com/digitalinnovationone/trilha-python-dio/blob/main/00%20-%20Fundamentos/desafio.py
+
+* informações sobre o desafio retiradas do slide da aula *
